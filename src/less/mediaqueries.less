@@ -1,0 +1,15 @@
+//
+// Media Queries (Mobile First)
+// Hard-wiring Bootstrap breakpoint values for now; gotta figure this out
+
+//@xs: ~"only screen and (min-width: 480px)";
+//@sm: ~"only screen and (min-width: 768px)";
+//@md: ~"only screen and (min-width: 992px)";
+//@lg: ~"only screen and (min-width: 1200px)";
+@xs-only: ~"only screen and (min-width: @{screen-xs-min}) and (max-width: @{screen-xs-max})";
+@sm-only: ~"only screen and (min-width: @{screen-sm-min}) and (max-width: @{screen-sm-max})";
+@md-only: ~"only screen and (min-width: @{screen-md-min}) and (max-width: @{screen-md-max})";
+@xs: ~"only screen and (min-width: @{screen-xs-min})";
+@sm: ~"only screen and (min-width: @{screen-sm-min})"; 
+@md: ~"only screen and (min-width: @{screen-md-min})";
+@lg: ~"only screen and (min-width: @{screen-lg-min})";
