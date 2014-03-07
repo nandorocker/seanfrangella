@@ -1150,6 +1150,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/src\/less\/vendor\/bootstrap-master\/docs-assets\/js\/less.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/docs-assets\/js\/less.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/docs-assets\/js\/less-ck.js",
+      "fileType" : 64
+    },
     "\/src\/less\/vendor\/bootstrap-master\/js\/tests\/unit\/tooltip.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1161,15 +1172,6 @@
       "outputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/js\/tests\/unit\/tooltip-ck.js",
       "fileType" : 64
     },
-    "\/src\/less\/vendor\/bootstrap-master\/examples\/starter-template\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/examples\/starter-template\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/src\/less\/vendor\/slimbox\/example.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1180,6 +1182,15 @@
       "outputAbbreviatedPath" : "\/src\/less\/vendor\/slimbox\/example.jpg",
       "initialSize" : 39292,
       "fileType" : 4096
+    },
+    "\/src\/less\/vendor\/bootstrap-master\/examples\/starter-template\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/examples\/starter-template\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/src\/less\/vendor\/bootstrap-master\/less\/forms.less" : {
       "ieCompatibility" : 1,
@@ -1207,17 +1218,6 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/js\/modal-ck.js",
-      "fileType" : 64
-    },
-    "\/src\/less\/vendor\/bootstrap-master\/docs-assets\/js\/less.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/docs-assets\/js\/less.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/docs-assets\/js\/less-ck.js",
       "fileType" : 64
     },
     "\/src\/less\/vendor\/slimbox\/src\/autoload.js" : {
@@ -1499,12 +1499,32 @@
       "outputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/js\/affix-ck.js",
       "fileType" : 64
     },
+    "\/src\/less\/vendor\/bootstrap-master\/js\/alert.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/js\/alert.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/js\/alert-ck.js",
+      "fileType" : 64
+    },
     "\/src\/less\/vendor\/bootstrap-master\/docs-assets\/css\/pygments-manni.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/docs-assets\/css\/pygments-manni.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
+    "\/src\/less\/vendor\/bootstrap-master\/examples\/justified-nav\/justified-nav.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/examples\/justified-nav\/justified-nav.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
@@ -1525,24 +1545,6 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/src\/less\/vendor\/bootstrap-master\/examples\/justified-nav\/justified-nav.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/examples\/justified-nav\/justified-nav.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/src\/less\/vendor\/bootstrap-master\/examples\/jumbotron\/jumbotron.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/examples\/jumbotron\/jumbotron.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/src\/less\/vendor\/bootstrap-master\/docs-assets\/js\/holder.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1554,16 +1556,14 @@
       "outputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/docs-assets\/js\/holder-ck.js",
       "fileType" : 64
     },
-    "\/src\/less\/vendor\/bootstrap-master\/js\/alert.js" : {
+    "\/src\/less\/vendor\/bootstrap-master\/examples\/jumbotron\/jumbotron.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/js\/alert.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/js\/alert-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/examples\/jumbotron\/jumbotron.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/src\/less\/vendor\/bootstrap-master\/examples\/screenshots\/sticky-footer-navbar.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1670,10 +1670,10 @@
       "outputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/js\/tooltip-ck.js",
       "fileType" : 64
     },
-    "\/src\/less\/vendor\/bootstrap-master\/less\/pager.less" : {
+    "\/src\/less\/main.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/less\/pager.less",
-      "outputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/css\/pager.css",
+      "inputAbbreviatedPath" : "\/src\/less\/main.less",
+      "outputAbbreviatedPath" : "\/src\/css\/main.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
@@ -1687,10 +1687,10 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/src\/less\/main.less" : {
+    "\/src\/less\/vendor\/bootstrap-master\/less\/pager.less" : {
       "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/src\/less\/main.less",
-      "outputAbbreviatedPath" : "\/src\/css\/main.css",
+      "inputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/less\/pager.less",
+      "outputAbbreviatedPath" : "\/src\/less\/vendor\/bootstrap-master\/css\/pager.css",
       "outputPathIsSetByUser" : 0,
       "strictUnits" : 0,
       "relativeURLS" : 0,
